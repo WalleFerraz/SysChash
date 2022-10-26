@@ -1,0 +1,48 @@
+body{
+    background-color: azure;
+}
+
+
+
+fieldset{
+    background-color: white;
+    margin: 0 auto;
+}
+
+
+
+.center_tx{
+    text-align: center;
+}
+
+
+
+.center{
+    margin: 0 auto
+}
+
+
+
+.caixa_pequena{
+    width: 30%;
+    height: 40%;
+}
+
+
+
+.caixa_grande{
+    width: 75%;
+    height: 80%;
+}
+
+
+
+footer{
+    clear: both;
+    border-top: 1px solid #606060;
+}
+
+
+a.espaco_pequeno{
+    margin-top: 40px;
+}
